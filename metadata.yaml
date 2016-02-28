@@ -1,0 +1,32 @@
+_repo: In-Ghostly-Japan_8128
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: In Ghostly Japan collects twelve stories from celebrated author Lafcadio
+  Hearn. Some of these stories are ghostly and ghastly, while others are wonderfully
+  benign. Whether he's telling a ghost story or explaining a Buddhist proverb, Hearn's
+  writings are never less than enthralling.
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Folklore -- Japan'
+- !lcsh 'Japan -- Social life and customs'
+- !lcsh 'Buddhism'
+title: In Ghostly Japan
+url: http://www.gutenberg.org/ebooks/8128
