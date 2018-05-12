@@ -1,4 +1,8 @@
 _repo: In-Ghostly-Japan_8128
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -15,6 +19,8 @@ description: In Ghostly Japan collects twelve stories from celebrated author Laf
   Hearn. Some of these stories are ghostly and ghastly, while others are wonderfully
   benign. Whether he's telling a ghost story or explaining a Buddhist proverb, Hearn's
   writings are never less than enthralling.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8128#In-Ghostly-Japan
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
